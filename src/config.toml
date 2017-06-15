@@ -1,6 +1,6 @@
-baseurl = "http://your.base.url/"
-languageCode = "en-us"
-title = "My HugoMDL Site"
+baseurl = "http://blog.gdggranada.com/"
+languageCode = "es-ES"
+title = "GDG Granada"
 theme = "HugoMDL"
 MetaDataFormat = "yaml"
 
@@ -9,20 +9,20 @@ MetaDataFormat = "yaml"
 	about = "/:filename/"
 
 [params]
-  author = "Firstname Lastname"
+  author = "Google Developer Group Granada"
   avatar = "/images/avatar.png"
   background = "/images/background.jpg"
-  description = "A place to publish my incomprehensible ramblings" #meta description
+  description = "Blog oficial de Google Developers Group Granada. Un lugar de encuentro para la comunidad local de desarrolladores" #meta description
   image = "/images/avatar-192x210.png" #for frontpage profile card
   mdlPrimary = "grey"
   mdlSecondary = "orange"
-  website = "example.com"
-  email = "Firstname@example.com"
-  twitter = "https://twitter.com/firstname_lastname"
-  github = "https://github.com/firstname_lastname/"
-  linkedin = "https://linkedin.com/in/firstname_lastname/"
-  facebook = "https://facebook.com/firstname_lastname/"
-  copyrightyear = "2015"
+  website = "gdggranada.com"
+  email = "contacto@gdggranada.com"
+  twitter = "https://twitter.com/GDGgranada/"
+  github = "https://github.com/GDGGranada/"
+  linkedin = ""
+  facebook = ""
+  copyrightyear = "2017"
   frontpageposts = 6 #number of post cards to display on frontpage
 
 # Fully customizable header menu
@@ -31,14 +31,14 @@ MetaDataFormat = "yaml"
   url = "/"
   weight = -200
 [[menu.main]]
-  name = "Articles"
+  name = "Artículos"
   url = "/post/"
   weight = -180
 [[menu.main]]
-  name = "Projects"
+  name = "Proyectos"
   url = "/project/"
   weight = -160
 [[menu.main]]
-  name = "About"
+  name = "Sobre nosotros"
   url = "/about/"
   weight = "-140"

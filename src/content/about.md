@@ -1,7 +1,7 @@
 ---
-title: "About Me"
-description: "All About Me"
-date: "2015-08-18"
+title: "Sobre nosotros"
+description: "¿Quiénes somos? ¿Qué hacemos?"
+date: "2017-06-15"
 type: "about"
 layout: "single"
 categories:
