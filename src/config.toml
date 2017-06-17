@@ -1,0 +1,44 @@
+baseurl = "http://blog.gdggranada.com/"
+languageCode = "es-ES"
+title = "GDG Granada"
+theme = "HugoMDL"
+MetaDataFormat = "yaml"
+
+[permalinks]
+	page = "/:title/"
+	about = "/:filename/"
+
+[params]
+  author = "Google Developer Group Granada"
+  avatar = "/images/avatar.png"
+  background = "/images/background.jpg"
+  description = "Blog oficial de Google Developers Group Granada. Un lugar de encuentro para la comunidad local de desarrolladores" #meta description
+  image = "/images/avatar-192x210.png" #for frontpage profile card
+  mdlPrimary = "grey"
+  mdlSecondary = "orange"
+  website = "gdggranada.com"
+  email = "contacto@gdggranada.com"
+  twitter = "https://twitter.com/GDGgranada/"
+  github = "https://github.com/GDGGranada/"
+  linkedin = ""
+  facebook = ""
+  copyrightyear = "2017"
+  frontpageposts = 6 #number of post cards to display on frontpage
+
+# Fully customizable header menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "Artículos"
+  url = "/post/"
+  weight = -180
+[[menu.main]]
+  name = "Proyectos"
+  url = "/project/"
+  weight = -160
+[[menu.main]]
+  name = "Sobre nosotros"
+  url = "/about/"
+  weight = "-140"
