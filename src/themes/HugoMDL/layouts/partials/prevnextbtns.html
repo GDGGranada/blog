@@ -3,7 +3,7 @@
                     {{- if .PrevInSection }}
                     <a href="{{ .PrevInSection.RelPermalink }}">
                         <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation">
-                        <i class="icon ion-android-arrow-back"></i>
+                        <i class="icon fa fa-arrow-left"></i>
                         </button>
                         Older
                     </a>
@@ -13,7 +13,7 @@
                     <a href="{{ .NextInSection.RelPermalink }}">
                         Newer
                         <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation">
-                            <i class="icon ion-android-arrow-forward"></i>
+                            <i class="icon fa fa-arrow-right"></i>
                         </button>
                     </a>
                     {{- end }}
