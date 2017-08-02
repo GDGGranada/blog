@@ -51,4 +51,4 @@ Google Developer Group Organizer y Women techmaker Lead. Soy estudiante del Grad
 
 <h5 align="center">Juan Anaya Ortiz</h5>
 
-Actual estudiante de Ingeniería Informática en Granada. Siempre aprendiendo, siempre riendo. Especializándome en cloud computing y en desarrollo front-end.
+Google Developer Group Organizer. Actual estudiante de Ingeniería Informática en Granada. Siempre aprendiendo, siempre riendo. Especializándome en cloud computing y en desarrollo front-end.
