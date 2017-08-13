@@ -12,6 +12,12 @@
     padding-top: 110px
 }
 
+.hmdl-about #hmdl-about-text2 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
 .hmdl-about #hmdl-about-text>h3, .hmdl-about #hmdl-about-text>h6 {
     margin: auto
 }
