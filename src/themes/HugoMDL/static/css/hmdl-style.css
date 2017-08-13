@@ -172,7 +172,7 @@ main {
 }
 
 .hmdl-body .mdl-layout__header, .hmdl-body .mdl-layout__drawer-button, .hmdl-body .mdl-layout__header--transparent .mdl-navigation__link {
-    color: white
+    color: #555
 }
 
 .hmdl-body .mdl-mini-footer {
@@ -390,7 +390,7 @@ main {
 }
 
 .hmdl-body nav.mdl-cell a {
-    color: white;
+    color: #444;
     text-decoration: none
 }
 
