@@ -1,5 +1,5 @@
 ---
-title: "GDG Granada - GDG Andalucía Summer 2017"
+title: "GDG Andalucía Summer 2017"
 description: "Los GDG de Andalucía se reunieron en Málaga... ¡Y nosotros teníamos que estar allí!"
 date: "2017-08-15"
 categories:
@@ -10,8 +10,8 @@ tags:
     - "Crónica"
 #cardthumbimage: "/images/default.jpg" #optional: solid color if unset
 cardheaderimage: "/images/default.jpg" #optional: solid color if unset
-cardbackground: "#263238" #optional: card background color; only shows when no image specified
-cardtitlecolor: "#ffffff" #optional: can be changed to make text visible over card image
+cardbackground: "#2196F3" #optional: card background color; only shows when no image specified
+cardtitlecolor: "#fff" #optional: can be changed to make text visible over card image
 "author":
     name: "Israel Blancas"
     description: "Google Developer Group Granada Lead Organizer"
