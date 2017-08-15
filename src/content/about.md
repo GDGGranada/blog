@@ -1,5 +1,5 @@
 ---
-title: "Sobre nosotros"
+title: "GDG Granada - Sobre nosotros"
 description: "¿Quiénes somos? ¿Qué hacemos?"
 date: "2017-06-15"
 type: "about"

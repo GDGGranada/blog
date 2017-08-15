@@ -1,5 +1,5 @@
 ---
-title: "GDG Andalucía Summer 2017"
+title: "GDG Granada - GDG Andalucía Summer 2017"
 description: "Los GDG de Andalucía se reunieron en Málaga... ¡Y nosotros teníamos que estar allí!"
 date: "2017-08-15"
 categories:
