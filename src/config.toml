@@ -38,7 +38,11 @@ MetaDataFormat = "yaml"
 [[menu.main]]
   name = "Agenda"
   url = "/agenda/"
-  weight = -180
+  weight = -160
+[[menu.main]]
+  name = "Patrocinadores"
+  url = "/patrocinadores/"
+  weight = -150
 [[menu.main]]
   name = "Sobre nosotros"
   url = "/about/"
