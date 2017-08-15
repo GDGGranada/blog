@@ -2,7 +2,7 @@
 title: "GDG Granada - Próximos eventos"
 description: "Estos son los próximos eventos que tenemos platificados. ¿Por qué no te vienes?"
 date: "2017-06-15"
-type: "agenda"
+type: "page"
 layout: "single"
 categories:
     - "calendar"
