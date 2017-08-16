@@ -1,5 +1,5 @@
 ---
-title: "GDG Granada - Patrocinadores"
+title: "Patrocinadores"
 description: "Estos son nuestros patrocinadores. Sin ellos, nada sería posible ¡Gracias a todos!"
 date: "2017-06-15"
 type: "page"

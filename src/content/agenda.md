@@ -1,5 +1,5 @@
 ---
-title: "GDG Granada - Próximos eventos"
+title: "Próximos eventos"
 description: "Estos son los próximos eventos que tenemos platificados. ¿Por qué no te vienes?"
 date: "2017-06-15"
 type: "page"
@@ -11,6 +11,7 @@ tags:
     - "events"
 cardheaderimage: "/images/agenda.jpg"
 cardbackground: "#880E4F"
+cardtitlecolor: "#424242"
 ---
 
 ### [ GDD Europe 2017 Extended – Granada](https://www.meetup.com/GDG_Granada/events/242071326/)

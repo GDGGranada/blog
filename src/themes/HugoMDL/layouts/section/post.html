@@ -2,7 +2,7 @@
 <div class="hmdl-list mdl-grid">
   <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
     <div class="mdl-card__media mdl-color-text--grey-50" style="background-image: url('../images/default.jpg');">
-      <h3>Todos los Post:</h3>
+      <h3>Todos los Post</h3>
     </div>
     {{- partial "pagination.html" . }} {{- range .Paginator.Pages }} {{ .Render "listitem" }} {{- end }} {{- partial "pagination.html" . }}
   </div>
