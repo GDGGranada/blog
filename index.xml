@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDG Granada</title>
+    <link>http://blog.gdggranada.com/</link>
+    <description>Recent content on GDG Granada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.gdggranada.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GDG Andalucía Summer 2017</title>
+      <link>http://blog.gdggranada.com/post/2017-08-15-andalucia-summer/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/post/2017-08-15-andalucia-summer/</guid>
+      <description>Podemos decir que entre los objetivos de Google Developers Group, están los de promover la tecnología, potenciar el desarrollo de los desarrolladores a través de la comunidad y, por supuesto, conocer gente. Y es que este último aspecto pasa desapercibido muchas veces en las comunidades de desarrolladores (cuando puede ser el más enriquecedor). Por eso, cada vez que la cartera y el tiempo lo permite, me acerco a otras ciudades: quiero conocer qué hacen allí, cómo se organizan y lo mejor, su gente.</description>
+    </item>
+    
+    <item>
+      <title>GDG Granada - Sobre nosotros</title>
+      <link>http://blog.gdggranada.com/about/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/about/</guid>
+      <description>Google Developer Group Granada es una comunidad de desarrolladores interesados en la tecnología y la difusión de la misma. Mediante nuestros eventos, tratamos de fomentar el intercambio de conocimientos y experiencias en el sector. La participación es totalmente abierta y, generalmente, gratuíta.
+GDG Granada es un grupo independiente. Nuestras actividades y opiniones no deben ser relacionadas con la compañía Google.
+Organizers del equipo Israel Blancas Google Developer Group Lead Organizer.</description>
+    </item>
+    
+    <item>
+      <title>Patrocinadores</title>
+      <link>http://blog.gdggranada.com/patrocinadores/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/patrocinadores/</guid>
+      <description>Google Patrocinador principal
+
+Google Developers Patrocinador principal. Comunidad de desarrolladores de Google
+
+Escuela Técnica Superior de Ingenierías Informática y Telecomunicación de la Universidad de Granada Colabora con la cesión de sus instalaciones para nuestros eventos 
+TopyCo Colabora con la cesión de sus instalaciones para nuestros eventos</description>
+    </item>
+    
+    <item>
+      <title>Próximos eventos</title>
+      <link>http://blog.gdggranada.com/agenda/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/agenda/</guid>
+      <description>GDD Europe 2017 Extended – Granada En: Salón de Actos de la ETSIIT
+Google Developer Days (GDD) son eventos a nivel mundial para mostrar algunas de las últimas tecnologías planteadas por Google, de forma que se favorezca la construcción de aplicaciones de gran calidad. El evento oficial se retransmitirá en streaming los días 5 y 6 de septiembre desde Cracovia.
+¡Únete a nosotros en este evento celebrado por primera vez en Granada!</description>
+    </item>
+    
+  </channel>
+</rss>

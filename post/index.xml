@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on GDG Granada</title>
+    <link>http://blog.gdggranada.com/post/</link>
+    <description>Recent content in Posts on GDG Granada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.gdggranada.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GDG Andalucía Summer 2017</title>
+      <link>http://blog.gdggranada.com/post/2017-08-15-andalucia-summer/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/post/2017-08-15-andalucia-summer/</guid>
+      <description>Podemos decir que entre los objetivos de Google Developers Group, están los de promover la tecnología, potenciar el desarrollo de los desarrolladores a través de la comunidad y, por supuesto, conocer gente. Y es que este último aspecto pasa desapercibido muchas veces en las comunidades de desarrolladores (cuando puede ser el más enriquecedor). Por eso, cada vez que la cartera y el tiempo lo permite, me acerco a otras ciudades: quiero conocer qué hacen allí, cómo se organizan y lo mejor, su gente.</description>
+    </item>
+    
+  </channel>
+</rss>

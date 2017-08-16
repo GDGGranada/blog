@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on GDG Granada</title>
+    <link>http://blog.gdggranada.com/categories/</link>
+    <description>Recent content in Categories on GDG Granada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Thu, 15 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.gdggranada.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://blog.gdggranada.com/categories/about/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>http://blog.gdggranada.com/categories/bio/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/categories/bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calendar</title>
+      <link>http://blog.gdggranada.com/categories/calendar/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/categories/calendar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>http://blog.gdggranada.com/categories/events/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>http://blog.gdggranada.com/categories/meta/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/categories/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>http://blog.gdggranada.com/categories/post/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/categories/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>http://blog.gdggranada.com/categories/sponsors/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/categories/sponsors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

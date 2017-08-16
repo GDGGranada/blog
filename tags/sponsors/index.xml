@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsors on GDG Granada</title>
+    <link>http://blog.gdggranada.com/tags/sponsors/</link>
+    <description>Recent content in Sponsors on GDG Granada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Thu, 15 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.gdggranada.com/tags/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Patrocinadores</title>
+      <link>http://blog.gdggranada.com/patrocinadores/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/patrocinadores/</guid>
+      <description>Google Patrocinador principal
+
+Google Developers Patrocinador principal. Comunidad de desarrolladores de Google
+
+Escuela Técnica Superior de Ingenierías Informática y Telecomunicación de la Universidad de Granada Colabora con la cesión de sus instalaciones para nuestros eventos 
+TopyCo Colabora con la cesión de sus instalaciones para nuestros eventos</description>
+    </item>
+    
+  </channel>
+</rss>
