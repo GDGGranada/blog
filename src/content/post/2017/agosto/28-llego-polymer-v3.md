@@ -45,6 +45,7 @@ mejor las capacidades del navegador (pudiendo acceder de forma más sencilla a
 
 WebComponents es un estándar (aunque aún se está trabajando en ello). Se basa
 en las siguientes tecnologías:
+
 * Templates: la vista del elemento (otros componentes y etiquetas HTML).
 * Shadow DOM: el DOM del componente es local al objeto, de forma que hay encapsulación.
 * Custom Elements: elementos HTML personalizados, es decir, la posibilidad de
