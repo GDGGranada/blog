@@ -2,22 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.gdggranada.com/post/2017/agosto/28-llego-polymer-v3/</loc>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.gdggranada.com/agenda/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.gdggranada.com/post/2017-08-15-andalucia-summer/</loc>
+    <loc>http://blog.gdggranada.com/post/2017/agosto/15-andalucia-summer/</loc>
     <lastmod>2017-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.gdggranada.com/patrocinadores/</loc>
+    <loc>http://blog.gdggranada.com/about/</loc>
     <lastmod>2017-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.gdggranada.com/about/</loc>
+    <loc>http://blog.gdggranada.com/patrocinadores/</loc>
     <lastmod>2017-06-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,13 +33,13 @@
   </url>
   
   <url>
-    <loc>http://blog.gdggranada.com/categories/bio/</loc>
+    <loc>http://blog.gdggranada.com/tags/bio/</loc>
     <lastmod>2017-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.gdggranada.com/tags/bio/</loc>
+    <loc>http://blog.gdggranada.com/categories/bio/</loc>
     <lastmod>2017-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -47,24 +52,19 @@
   
   <url>
     <loc>http://blog.gdggranada.com/categories/</loc>
+    <lastmod>2017-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.gdggranada.com/tags/comunidad/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.gdggranada.com/tags/cr%C3%B3nica/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.gdggranada.com/categories/events/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,14 +75,20 @@
   </url>
   
   <url>
-    <loc>http://blog.gdggranada.com/</loc>
+    <loc>http://blog.gdggranada.com/categories/events/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://blog.gdggranada.com/</loc>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.gdggranada.com/tags/gdg/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -94,19 +100,13 @@
   
   <url>
     <loc>http://blog.gdggranada.com/categories/post/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.gdggranada.com/post/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.gdggranada.com/categories/sponsors/</loc>
-    <lastmod>2017-06-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,7 +117,14 @@
   </url>
   
   <url>
+    <loc>http://blog.gdggranada.com/categories/sponsors/</loc>
+    <lastmod>2017-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.gdggranada.com/tags/</loc>
+    <lastmod>2017-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

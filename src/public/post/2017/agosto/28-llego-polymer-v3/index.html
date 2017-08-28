@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="generator" content="Hugo 0.20.6" />
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Google Developer Group Granada blog. Crónicas, tutoriales, codelabs y mucho más para potenciar tus habilidades como desarrollador">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link rel="icon" type="image/png" href="/images/favicon.ico">
+
+    
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="images/touch/chrome-touch-icon-192x192.png">
+
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Material Design Lite">
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+
+    
+    <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#3372DF">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en"/>
+    <link rel="stylesheet" href="/css/font-awesome.min.css"/>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-blue.min.css">
+
+    <link rel="stylesheet" href="/css/hmdl-style.css"/>
+
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+
+
+
+    <title>¡Llegó Polymer v3!</title>
+</head>
+
+<body style="background-image: url('/images/background.jpg');">
+    <div class="hmdl-body mdl-layout mdl-js-layout has-drawer is-upgraded">
+<header class="mdl-layout__header mdl-layout__header--transparent mdl-layout__header--scroll">
+  <div class="mdl-layout__header-row">
+    <div class="mdl-layout-spacer"></div>
+    <nav class="mdl-navigation">
+      <a class="mdl-navigation__link" href="/">Home</a>
+      <a class="mdl-navigation__link" href="/post/">Artículos</a>
+      <a class="mdl-navigation__link" href="/agenda/">Agenda</a>
+      <a class="mdl-navigation__link" href="/patrocinadores/">Patrocinadores</a>
+      <a class="mdl-navigation__link" href="/about/">Sobre nosotros</a>
+    </nav>
+  </div>
+</header>
+<div class="mdl-layout__drawer">
+  <nav class="mdl-navigation">
+    <a class="mdl-navigation__link" href="/">Home</a>
+    <a class="mdl-navigation__link" href="/post/">Artículos</a>
+    <a class="mdl-navigation__link" href="/agenda/">Agenda</a>
+    <a class="mdl-navigation__link" href="/patrocinadores/">Patrocinadores</a>
+    <a class="mdl-navigation__link" href="/about/">Sobre nosotros</a>
+  </nav>
+</div>
+
+        <main class="mdl-layout__content">
+
+            <div class="hmdl-page mdl-grid">
+                <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
+                    <div class="hmdl-page-banner mdl-card__media mdl-color-text--grey-50" style="background-image: url('/images/default.jpg'); background-color:#B71C1C;">
+                        <h3 style="color:#fff;">¡Llegó Polymer V3!</h3>
+                    </div>
+                    <div class="hmdl-page-meta mdl-color-text--grey-700 mdl-card__supporting-text">
+                        <div class="minilogo" style="background-image: url('/images/israel.png');"></div>
+                        <div>
+                            <strong>Israel Blancas</strong>
+                            <span>Aug 28, 2017</span>
+                        </div>
+                        <div class="section-spacer"></div>
+                    </div>
+                    <div class="hmdl-page-content mdl-color-text--grey-700 mdl-card__supporting-text">
+                        <style>
+  twitterwidget {margin: 0 auto;}
+</style>
+
+<iframe width="560" height="450" src="https://www.youtube.com/embed/4X4tCIJeo8w" frameborder="0" allowfullscreen></iframe>
+
+<p>La semana pasada se celebró el <a href="https://summit.polymer-project.org/">Polymer Summit</a>
+2017 en Copenhague. Entre otras cosas, <a href="https://github.com/Polymer/polymer/tree/3.0-preview">se ha presentado la versión preview
+de Polymer 3 (que está disponible en su repositorio de GitHub, en la rama 3.0-preview)</a>.
+Se han presentado muchas novedades y voy a intentar resumir aquí las que, al
+menos para mí, son más importantes.</p>
+
+<p>Para los que no conozcáis Polymer (mal hecho), os comento que es una biblioteca
+para crear tus propias etiquetas HTML, las cuales pueden tener una vista y/o
+un comportamiento. Esto se encuentra dentro de la “programación modular”
+(que ha tomado mucha fuerza en los últimos años en el front-end) y nos
+permite desarrollar aplicaciones mantenibles, con una mayor facilidad de
+testeo y de una forma más rápida. A esto se suma la posibilidad de aprovechar
+mejor las capacidades del navegador (pudiendo acceder de forma más sencilla a
+  las APIs nativas, por ejemplo). ¿Cual es la gracia frente a frameworks como
+  Angular? Con Polymer buscamos crear WebComponents, que puedan ser reutilizados
+  después desde esos frameworks.</p>
+
+<p>WebComponents es un estándar (aunque aún se está trabajando en ello). Se basa
+en las siguientes tecnologías:
+* Templates: la vista del elemento (otros componentes y etiquetas HTML).
+* Shadow DOM: el DOM del componente es local al objeto, de forma que hay encapsulación.
+* Custom Elements: elementos HTML personalizados, es decir, la posibilidad de
+crear tus propias etiquetas.
+* HTML Imports: posibilidad de importar otros componentes.</p>
+
+<p><blockquote class="twitter-tweet" data-lang="es" style="margin: 0 auto;"><p lang="en" dir="ltr">Tune in now! The <a href="https://twitter.com/hashtag/PolymerSummit?src=hash">#PolymerSummit</a> keynote is streaming live from <a href="https://twitter.com/hashtag/Copenhagen?src=hash">#Copenhagen</a> 🇩🇰 with <a href="https://twitter.com/wmginsberg">@wmginsberg</a> &amp; <a href="https://twitter.com/FredKSchott">@FredKSchott</a>.<a href="https://t.co/h3JflPyIIZ">https://t.co/h3JflPyIIZ</a> <a href="https://t.co/qFS9Y88cVI">pic.twitter.com/qFS9Y88cVI</a></p>&mdash; Polymer (@polymer) <a href="https://twitter.com/polymer/status/899904167816433664">22 de agosto de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>Mientras la mayor parte de estas funcionalidades ya se encuentran incorporadas
+en los principales navegadores web, otras tantas no (aunque poco a poco, los
+desarrolladores de los frameworks de front-end y navegadores se están
+poniendo de acuerdo).</p>
+
+<p><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">ES Modules will be native in Chrome next Sept. 5 🙀 <a href="https://twitter.com/hashtag/PolymerSummit?src=hash">#PolymerSummit</a> <a href="https://t.co/kQX23ZIZ0y">pic.twitter.com/kQX23ZIZ0y</a></p>&mdash; Carlos Azaustre (@carlosazaustre) <a href="https://twitter.com/carlosazaustre/status/899912318070530049">22 de agosto de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>De este Polymer Summit ha destacado la eliminación de los HTMLImports en
+Polymer. Hace tiempo que se sabía que iban a ser descartados y ya ha llegado el
+momento. En Polymer 3, pasamos de los HTMLImports a los ES Modules, como ya
+venían haciendo otros frameworks. Y Chrome implementará, de forma nativa, la
+posibilidad de utilizar ES Modules a partir de su versión de septiembre
+(mientras los demás navegadores trabajan en ello).</p>
+
+<p>Otra noticia, también esperada, era la utilización de NPM o yarn en lugar de
+bower. La utilización de cualquiera de estas herramientas es otro paso más
+hacia la utilización de una misma herramienta para la gestión de las distintas
+bibliotecas Javascript.</p>
+
+<p><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/PolymerSummit?src=hash">#PolymerSummit</a> scenery 🖼 <a href="https://t.co/Xf5f0hvILN">pic.twitter.com/Xf5f0hvILN</a></p>&mdash; Matthew McNulty (@mattsmcnulty) <a href="https://twitter.com/mattsmcnulty/status/901387356095344640">26 de agosto de 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>Y, aunque todo esto rompa con las versiones anteriores, es otro esfuerzo
+para conseguir un estándar y acabar con la problemática del front-end: aparece
+un nuevo framework (serio) cada 3 meses y la interoperabilidad no es posible.</p>
+
+<iframe width="560" height="450" src="https://www.youtube.com/embed/JH6jEcLxJEI" frameborder="0" allowfullscreen></iframe>
+
+                    </div>
+                    <div class="hmdl-page-comments mdl-color-text--primary-contrast mdl-card__supporting-text comments"> 
+                        <a href=http://iblancasa.com/>Israel Blancas</a>
+                        <p style="color:#000;">Google Developer Group Granada Lead Organizer</p>
+                    </div>  
+                </div>                
+                <nav class="mdl-color-text--grey-50 mdl-cell mdl-cell--12-col">
+                    <a href="/post/2017/agosto/15-andalucia-summer/">
+                        <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation">
+                        <i class="icon fa fa-arrow-left"></i>
+                        </button>
+                        Older
+                    </a>
+                    <div class="section-spacer"></div>
+                </nav>
+ 
+            </div>        
+        </main>
+        <footer class="mdl-mini-footer">
+            <div class="mdl-mini-footer--left-section">                
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="mailto:contacto@gdggranada.com">
+                    <i class="material-icons_lg fa fa-envelope"></i>
+                    <span class="visuallyhidden">Email</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://github.com/GDGGranada/">
+                    <i class="material-icons_lg icon fa fa-github"></i>
+                    <span class="visuallyhidden">Github</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://www.meetup.com/es-ES/GDG_Granada/">
+                    <i class="material-icons_lg icon fa fa-meetup "></i>
+                    <span class="visuallyhidden">Meetup</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://twitter.com/GDGgranada/">
+                    <i class="material-icons_lg icon fa fa-twitter "></i>
+                    <span class="visuallyhidden">Twitter</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://www.facebook.com/GDGGranada/">
+                    <i class="material-icons_lg icon fa fa-facebook "></i>
+                    <span class="visuallyhidden">Facebook</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://t.me/gdggranada/">
+                    <i class="material-icons_lg icon fa fa-telegram "></i>
+                    <span class="visuallyhidden">Telegram</span>
+                </a>
+
+            </div>
+            <div class="mdl-mini-footer--right-section" style="background-color:white; color:#777">
+                <span>© 2017 GDG Granada</span>
+            </div>
+        </footer>
+        <div class="mdl-layout__obfuscator"></div>
+    </div>
+    <script src="https://code.getmdl.io/1.1.3/material.min.js"></script>
+
+
+</body>
+</html>
+

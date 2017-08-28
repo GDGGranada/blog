@@ -2,42 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sponsors on GDG Granada</title>
-    <link>http://blog.gdggranada.com/tags/sponsors/index.xml</link>
+    <link>http://blog.gdggranada.com/tags/sponsors/</link>
     <description>Recent content in Sponsors on GDG Granada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <atom:link href="http://blog.gdggranada.com/tags/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.gdggranada.com/tags/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>GDG Granada - Patrocinadores</title>
+      <title>Patrocinadores</title>
       <link>http://blog.gdggranada.com/patrocinadores/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://blog.gdggranada.com/patrocinadores/</guid>
-      <description>
+      <description>Google Patrocinador principal
 
-&lt;h3 id=&#34;google&#34;&gt;Google&lt;/h3&gt;
+Google Developers Patrocinador principal. Comunidad de desarrolladores de Google
 
-&lt;p&gt;Patrocinador principal&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.google.es/&#34;&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/google.jpg&#34; alt=&#34;Google&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;google-developers&#34;&gt;Google Developers&lt;/h3&gt;
-
-&lt;p&gt;Patrocinador principal. Comunidad de desarrolladores de Google&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/groups/?hl=es&#34;&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/googledevelopers.jpg&#34; alt=&#34;Google Developers&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;escuela-técnica-superior-de-ingenierías-informática-y-telecomunicación-de-la-universidad-de-granada&#34;&gt;Escuela Técnica Superior de Ingenierías Informática y Telecomunicación de la Universidad de Granada&lt;/h3&gt;
-
-&lt;p&gt;Colabora con la cesión de sus instalaciones para nuestros eventos
-&lt;a href=&#34;https://etsiit.ugr.es/&#34;&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/logo_etsiit.jpg&#34; alt=&#34;ETSIIT&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;topyco&#34;&gt;TopyCo&lt;/h3&gt;
-
-&lt;p&gt;Colabora con la cesión de sus instalaciones para nuestros eventos
-&lt;a href=&#34;https://www.topyco.com&#34;&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/topyco.jpg&#34; alt=&#34;TopyCo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+Escuela Técnica Superior de Ingenierías Informática y Telecomunicación de la Universidad de Granada Colabora con la cesión de sus instalaciones para nuestros eventos 
+TopyCo Colabora con la cesión de sus instalaciones para nuestros eventos</description>
     </item>
     
   </channel>

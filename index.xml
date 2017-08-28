@@ -2,265 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GDG Granada</title>
-    <link>http://blog.gdggranada.com/index.xml</link>
+    <link>http://blog.gdggranada.com/</link>
     <description>Recent content on GDG Granada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.gdggranada.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.gdggranada.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>GDG Granada - Próximos eventos</title>
+      <title>¡Llegó Polymer v3!</title>
+      <link>http://blog.gdggranada.com/post/2017/agosto/28-llego-polymer-v3/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/post/2017/agosto/28-llego-polymer-v3/</guid>
+      <description>twitterwidget {margin: 0 auto;}   La semana pasada se celebró el Polymer Summit 2017 en Copenhague. Entre otras cosas, se ha presentado la versión preview de Polymer 3 (que está disponible en su repositorio de GitHub, en la rama 3.0-preview). Se han presentado muchas novedades y voy a intentar resumir aquí las que, al menos para mí, son más importantes.
+Para los que no conozcáis Polymer (mal hecho), os comento que es una biblioteca para crear tus propias etiquetas HTML, las cuales pueden tener una vista y/o un comportamiento.</description>
+    </item>
+    
+    <item>
+      <title>Próximos eventos</title>
       <link>http://blog.gdggranada.com/agenda/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://blog.gdggranada.com/agenda/</guid>
-      <description>
-
-&lt;h2 id=&#34;net-core-y-principios-solid-https-www-meetup-com-gdg-granada-events-242667141&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242667141/&#34;&gt; .NET Core y principios SOLID&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;En: &lt;a href=&#34;https://www.google.es/maps/@37.19678497314453,-3.6248960494995117,18z&#34;&gt;Escuela Técnica Superior de Ingeniería Informática y Telecomunicaciones&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/dotnet/core&#34;&gt;.NET Core&lt;/a&gt; es una plataforma de desarrollo con propósito general y multiplataforma mantenido por Microsoft y la comunidad .NET. Actualmente es soportada en Windows, Linux y macOS, siendo muy utilizada en entornos cloud y plataformas embebidas. ¡Y además es libre!&lt;/p&gt;
-
-&lt;p&gt;SOLID es un acrónimo que representa cinco principios básicos de la programación orientada a objetos y el diseño. Hoy en día es algo básico a la hora de desarrollar código mantenible  y encontrar trabajo ya que son muchas las empresas tecnológicas se centran en contratar personas que controlen, entre otras cosas, estos conceptos de manera clara.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://es.linkedin.com/in/carlostorrecillas&#34;&gt;Carlos Torrecillas&lt;/a&gt;, manager en &lt;a href=&#34;https://www.topyco.com/&#34;&gt;TOPyCo coworking&lt;/a&gt; y freelance software engineer nos contará qué es .NET core en mayor profunidad y cómo se aplican los principios SOLID a esta plataforma de desarrollo, así como algunos consejos a la hora de introducirnos en el mundo .NET core.&lt;/p&gt;
-
-&lt;p&gt;¿A qué estás esperando para venir a aprender con nosotros?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://secure.meetupstatic.com/photos/event/1/e/d/3/600_463807891.jpeg&#34; alt=&#34;TOPyCo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Próximamente más información.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hora y aula por determinar.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;apuntarse-al-evento-https-www-meetup-com-gdg-granada-events-242667141&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242667141/&#34;&gt;Apuntarse al evento&lt;/a&gt;&lt;/h4&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;primera-sesión-entrenamiento-ieeextreme-https-www-meetup-com-gdg-granada-events-242666592&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242666592/&#34;&gt;Primera sesión entrenamiento IEEExtreme&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;En: &lt;a href=&#34;https://www.google.es/maps/@37.18038558959961,-3.6068899631500244,18z&#34;&gt;Facultad de Ciencias&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://secure.meetupstatic.com/photos/event/1/e/3/4/600_463807732.jpeg&#34; alt=&#34;IEEExtreme&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ieeextreme.org/&#34;&gt;¡IEEE vuelve a organizar IEEExtreme Programming Competition!&lt;/a&gt; Un concurso de 24 programando, con resolución de problemas lógicos. Este año se celebrará entre entre las 2:00 de 14 y las 2:00 del 15 de octubre (hora española).&lt;/p&gt;
-
-&lt;p&gt;Está abierto a la participación de grupos de estudiantes pertenecientes a las ramas de estudiantes de IEEE.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ieee-ugr.org/&#34;&gt;IEEE Student Branch of UGR&lt;/a&gt; (con la colaboración de GDG Granada) organiza 3 sesiones de preparación &lt;strong&gt;abiertas a todo aquel que desee participar (sin necesidad de ser miembro de IEEE o de participar después en IEEExtreme)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Sesiones:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Viernes 22 septiembre: Charla de introducción y taller 0&lt;/li&gt;
-&lt;li&gt;Viernes 29 septiembre: Taller 1&lt;/li&gt;
-&lt;li&gt;Viernes 6 octubre: Taller 2&lt;/li&gt;
-&lt;li&gt;Viernes/Sábado 13 octubre: Competición&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;¿Listo para unirte al reto?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://secure.meetupstatic.com/photos/event/1/d/e/6/600_463807654.jpeg&#34; alt=&#34;IEEE Student Branch of UGR &amp;amp; GDG Granada&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hora y aula por determinar.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;apuntarse-al-evento-https-www-meetup-com-gdg-granada-events-242666592&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242666592/&#34;&gt;Apuntarse al evento&lt;/a&gt;&lt;/h4&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;gdd-europe-2017-extended-granada-https-www-meetup-com-gdg-granada-events-242071326&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242071326/&#34;&gt;GDD Europe 2017 Extended – Granada&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;En: &lt;a href=&#34;https://www.google.es/maps/@37.19678497314453,-3.6248960494995117,18z&#34;&gt;Salón de Actos de la ETSIIT&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://secure.meetupstatic.com/photos/event/1/d/1/b/600_463807451.jpeg&#34; alt=&#34;GDD Europe Extended&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Google Developer Days (GDD) son eventos a nivel mundial para mostrar algunas de las últimas tecnologías planteadas por Google, de forma que se favorezca la construcción de aplicaciones de gran calidad. El evento oficial se retransmitirá en streaming los días 5 y 6 de septiembre desde Cracovia.&lt;/p&gt;
-
-&lt;p&gt;¡Únete a nosotros en este evento celebrado por primera vez en Granada! Lo celebraremos durante todo el día 27 de septiembre en la Escuela Técnica Superior de Ingenierías Inforámática y Telecomunicación de la Universidad de Granada. Las sesiones de la mañana estarán orientadas a distintas charlas técnicas ofrecidas por nuestros organizadores. Por la tarde, disfrutaremos de una introducción a Test Driven Development con Python.&lt;/p&gt;
-
-&lt;p&gt;¡Vente! Habrá muchas sorpresas.&lt;/p&gt;
-
-&lt;p&gt;Agenda:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;10.15: Bienvenida y presentación del evento&lt;/li&gt;
-&lt;li&gt;10.30: Charla 1&lt;/li&gt;
-&lt;li&gt;11.15: Descanso&lt;/li&gt;
-&lt;li&gt;11.45: Charla 2&lt;/li&gt;
-&lt;li&gt;12.45: Charla 3&lt;/li&gt;
-&lt;li&gt;13.30: Cierre de la sesión de mañana&lt;/li&gt;
-&lt;li&gt;De 17.30 a 19.30: introducción a TDD con Python&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;¿Qué necesito para el taller de TDD con Python?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Una mínima idea de programación en cualquier lenguaje (no tiene por qué ser Python)&lt;/li&gt;
-&lt;li&gt;Tu portátil&lt;/li&gt;
-&lt;li&gt;Ganas de aprender&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pronto más información.&lt;/p&gt;
-
-&lt;p&gt;#GDDEurope&lt;/p&gt;
-
-&lt;h4 id=&#34;apuntarse-al-evento-https-www-meetup-com-gdg-granada-events-242071326&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242071326/&#34;&gt;Apuntarse al evento&lt;/a&gt;&lt;/h4&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;segunda-sesión-entrenamiento-ieeextreme-https-www-meetup-com-gdg-granada-events-242666596&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242666596/&#34;&gt;Segunda sesión entrenamiento IEEExtreme&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;En: &lt;a href=&#34;https://www.google.es/maps/@37.18038558959961,-3.6068899631500244,18z&#34;&gt;Facultad de Ciencias&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://secure.meetupstatic.com/photos/event/1/e/3/6/600_463807734.jpeg&#34; alt=&#34;IEEExtreme&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ieeextreme.org/&#34;&gt;¡IEEE vuelve a organizar IEEExtreme Programming Competition!&lt;/a&gt; Un concurso de 24 programando, con resolución de problemas lógicos. Este año se celebrará entre entre las 2:00 de 14 y las 2:00 del 15 de octubre (hora española).&lt;/p&gt;
-
-&lt;p&gt;Está abierto a la participación de grupos de estudiantes pertenecientes a las ramas de estudiantes de IEEE.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ieee-ugr.org/&#34;&gt;IEEE Student Branch of UGR&lt;/a&gt; (con la colaboración de GDG Granada) organiza 3 sesiones de preparación &lt;strong&gt;abiertas a todo aquel que desee participar (sin necesidad de ser miembro de IEEE o de participar después en IEEExtreme).&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Tenemos en mente estos días:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Viernes 22 septiembre: Charla de introducción y taller 0&lt;/li&gt;
-&lt;li&gt;Viernes 29 septiembre: Taller 1&lt;/li&gt;
-&lt;li&gt;Viernes 6 octubre: Taller 2&lt;/li&gt;
-&lt;li&gt;Viernes/Sábado 13 octubre: Competición&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://secure.meetupstatic.com/photos/event/1/e/3/b/600_463807739.jpeg&#34; alt=&#34;IEEE Student Branch of UGR &amp;amp; GDG Granada&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hora y aula por determinar.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;apuntarse-al-evento-https-www-meetup-com-gdg-granada-events-242666596&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242666596/&#34;&gt;Apuntarse al evento &lt;/a&gt;&lt;/h4&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;tercera-sesión-entrenamiento-ieeextreme-https-www-meetup-com-gdg-granada-events-242666598&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242666598/&#34;&gt;Tercera sesión entrenamiento IEEExtreme&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;En: &lt;a href=&#34;https://www.google.es/maps/@37.18038558959961,-3.6068899631500244,18z&#34;&gt;Facultad de Ciencias&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://secure.meetupstatic.com/photos/event/1/e/3/c/600_463807740.jpeg&#34; alt=&#34;IEEExtreme&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ieeextreme.org/&#34;&gt;¡IEEE vuelve a organizar IEEExtreme Programming Competition!&lt;/a&gt; Un concurso de 24 programando, con resolución de problemas lógicos. Este año se celebrará entre entre las 2:00 de 14 y las 2:00 del 15 de octubre (hora española).&lt;/p&gt;
-
-&lt;p&gt;Está abierto a la participación de grupos de estudiantes pertenecientes a las ramas de estudiantes de IEEE.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ieee-ugr.org/&#34;&gt;IEEE Student Branch of UGR&lt;/a&gt; (con la colaboración de GDG Granada) organiza 3 sesiones de preparación &lt;strong&gt;abiertas a todo aquel que desee participar (sin necesidad de ser miembro de IEEE o de participar después en IEEExtreme).&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Tenemos en mente estos días:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Viernes 22 septiembre: Charla de introducción y taller 0&lt;/li&gt;
-&lt;li&gt;Viernes 29 septiembre: Taller 1&lt;/li&gt;
-&lt;li&gt;Viernes 6 octubre: Taller 2&lt;/li&gt;
-&lt;li&gt;Viernes/Sábado 13 octubre: Competición&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://secure.meetupstatic.com/photos/event/1/e/3/f/600_463807743.jpeg&#34; alt=&#34;IEEE Student Branch of UGR &amp;amp; GDG Granada&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hora y aula por determinar.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;apuntarse-al-evento-https-www-meetup-com-gdg-granada-events-242666598&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242666598/&#34;&gt;Apuntarse al evento &lt;/a&gt;&lt;/h4&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;devfest-granada-2017-https-www-meetup-com-gdg-granada-events-242592145&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242592145/&#34;&gt; DevFest Granada 2017&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;En: &lt;a href=&#34;https://www.google.es/maps/@37.19678497314453,-3.6248960494995117,18z&#34;&gt;Salón de Actos de la ETSIIT&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://secure.meetupstatic.com/photos/event/3/b/4/5/600_463755173.jpeg&#34; alt=&#34;GDG DevFest17&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;El GDG DevFest 2017 es un gran día donde poder aprender, compartir tus conocimientos y proyectos y hacer networking con la comunidad de desarrolladores de Granada.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hora y actividades por decidir.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pronto más información.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;#DevFest17&lt;/p&gt;
-
-&lt;h4 id=&#34;apuntarse-al-evento-https-www-meetup-com-gdg-granada-events-242592145&#34;&gt;&lt;a href=&#34;https://www.meetup.com/GDG_Granada/events/242592145/&#34;&gt;Apuntarse al evento &lt;/a&gt;&lt;/h4&gt;
-</description>
+      <description>.NET Core y principios SOLID En: Escuela Técnica Superior de Ingeniería Informática y Telecomunicaciones
+.NET Core es una plataforma de desarrollo con propósito general y multiplataforma mantenido por Microsoft y la comunidad .NET. Actualmente es soportada en Windows, Linux y macOS, siendo muy utilizada en entornos cloud y plataformas embebidas. ¡Y además es libre!
+SOLID es un acrónimo que representa cinco principios básicos de la programación orientada a objetos y el diseño.</description>
     </item>
     
     <item>
       <title>GDG Andalucía Summer 2017</title>
-      <link>http://blog.gdggranada.com/post/2017-08-15-andalucia-summer/</link>
+      <link>http://blog.gdggranada.com/post/2017/agosto/15-andalucia-summer/</link>
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gdggranada.com/post/2017-08-15-andalucia-summer/</guid>
-      <description>
-
-&lt;p&gt;Podemos decir que entre los objetivos de Google Developers Group, están los de promover la tecnología, potenciar el desarrollo de los desarrolladores a través de la comunidad y, por supuesto, conocer gente. Y es que este último aspecto pasa desapercibido muchas veces en las comunidades de desarrolladores (cuando puede ser el más enriquecedor). Por eso, cada vez que la cartera y el tiempo lo permite, me acerco a otras ciudades: quiero conocer qué hacen allí, cómo se organizan y lo mejor, su gente.&lt;/p&gt;
-
-&lt;h3 id=&#34;mi-relación-con-la-comunidad-gdg&#34;&gt;Mi relación con la comunidad GDG&lt;/h3&gt;
-
-&lt;p&gt;Empecé en GDG Granada después del “DevFest 2015”. Conocí personalmente a algunos que habían sido compañeros de escuela o, incluso, de clase: Mica, Alberto y Esteban (¡estos dos últimos estaban incluso eventos en Granada desde Madrid!).&lt;/p&gt;
-
-&lt;p&gt;Durante la “Hackers Week 2016” en Málaga, dí con algunos miembros de esa ciudad como José Antonio, Mario y Samuel. También a Fran Baena, Developer Relationship en Google España, Gloria Bueno (Google Developer Expert en tecnologías frontend) y a Lara y Oscar, de GDG Cáceres.
-Un par de meses más tarde, era organizador y ponente del “Google IO Extended” en Madrid junto con Orestes (organizador del GDG Vigo), Javier (de GDG Spain) y Esteban.&lt;/p&gt;
-
-&lt;p&gt;En junio llegó el “ExFest” y tocaba visitar Cáceres. Dormía en el mismo piso que la gente del GDG Málaga. Networking puro. Terminé de conocer al equipo de Cáceres y miembros de otros GDG, como Abdón (de GDG Vigo y Google Developer Expert en tecnologías web de frontend) o Laura de GDG Madrid.
-En la “PyconES” de Almería, me junté con algunos miembros de Hacklab Almería y, de nuevo, con la gente de GDG: Marcos y Víctor (ahora residente en Canarias). Aunque no hablé con ella, tuve la suerte de asistir a la keynote ofrecida por Gema Parreño (una verdadera maga nivel 80 de Tensorflow).
-Le seguiría Córdoba y su DevFest, conociendo a grandes personas como David, Dani o Leti entre otros muchos (una gente maravillosa que me recibió con los brazos abiertos).&lt;/p&gt;
-
-&lt;p&gt;Volví a Almería para las Jornadas del Hacklab Almería en diciembre (otra comunidad genial), donde pude compartir más tiempo con Ismael Olea, Rubén o Cristo además de Germán (de la OSL de la UGR) y mucha gente que conocí aquel fin de semana.&lt;/p&gt;
-
-&lt;p&gt;En el “OpenSouthCode” 2017, me volví a reencontrar con muchos amigos de Málaga y Almería y conocí al relevo generacional del GDG Málaga: Rubén, Cristina, Antonio David y María. Y entonces algo pasó: vi que no era el único que tenía la necesidad de conocer a los miembros de las comunidades de las ciudades vecinas, especialmente GDG. Era y es algo necesario. Y había que unirnos de alguna forma.&lt;/p&gt;
-
-&lt;p&gt;Las semanas siguientes fui a la Sevilla Developers Conference (capitaneada por Israel Boza) y al Murcia Meetup Day. Mi tocayo es un vikingo de las comunidades del software y las lleva todas adelante. Pero hasta los vikingos necesitan ayuda. En Murcia, el relevo generacional se estaba haciendo de rogar en cuanto a GDG, pero tienen muchas comunidades muy activas sobre todos los temas.&lt;/p&gt;
-
-&lt;p&gt;Y entre medias&amp;hellip; ¡unos 25 eventos en Granada! Donde estuve con DataBeers, Python Granada, la Oficina de Software Libre de la Universidad de Granada entre otros grupos de desarrolladores y mucha gente que no pertenece a ninguna de estas asociaciones.&lt;/p&gt;
-
-&lt;h3 id=&#34;lo-que-vino-después-gdg-andalucía-summer-2017&#34;&gt;Lo que vino después: GDG Andalucía Summer 2017&lt;/h3&gt;
-
-&lt;p&gt;Tras el encuentro con Rubén de Málaga, empezamos a organizar (con la ayuda de GDG Spain) el “Andalucía Summer” Málaga 2017: un evento para propiciar que las comunidades de GDG de Andalucía nos conociéramos y trabajemos de forma conjunta. Y había ganas ¡Vaya si había ganas! Nos conocimos, hablamos, reímos, tuvimos sesiones técnicas y lo mejor, empezamos las colaboraciones. Siete charlas (Sevilla no pudo estar presente) charlas técnicas, donde hablamos de mujer y tecnología, Polymer, Google Cloud Platform, Tor, Docker… y recibimos un maravilloso training por parte de Gema Parreño sobre Tensorflow.&lt;/p&gt;
-
-&lt;p&gt;El evento sirvió para mucho y sentó las bases para futuras colaboraciones. Quedó demostrado que el GDG Andalucía funciona como uno solo. Por lo pronto, &lt;strong&gt;algunos de nosotros iremos a Jaén el 15 de septiembre para el GDD Extended de Jaén&lt;/strong&gt;. Y los que vendrán. A fin de cuentas, una forma de mejorar la comunidad y cómo organizarnos para ofrecer mejores eventos, desarrollarnos mejor como profesionales y hacer networking.&lt;/p&gt;
-
-&lt;p&gt;Marcos, David (de Córdoba), Leticia, Dani, Ana, Cecilia, David (de Granada), José, Abdallah, Eliezer, Rubén, José Antonio, Antonio David, Mario, Chelo, Javi, Gema, Pepe… ¡Sois maravillosos y nos veremos pronto organizando eventos y mil cosas más!&lt;/p&gt;
-
-&lt;p&gt;Pero… ¡Mejor te dejo el vídeo que nuestra compañera Ana realizó durante el evento!&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/byn-989UlCA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Finalmente, gracias a todos los que lo hicieron posible. Si la gente no fuera como es, las comunidades no serían posibles. Y Google Developer Group, es mucho más que una comunidad.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>GDG Granada - Patrocinadores</title>
-      <link>http://blog.gdggranada.com/patrocinadores/</link>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.gdggranada.com/patrocinadores/</guid>
-      <description>
-
-&lt;h3 id=&#34;google&#34;&gt;Google&lt;/h3&gt;
-
-&lt;p&gt;Patrocinador principal&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.google.es/&#34;&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/google.jpg&#34; alt=&#34;Google&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;google-developers&#34;&gt;Google Developers&lt;/h3&gt;
-
-&lt;p&gt;Patrocinador principal. Comunidad de desarrolladores de Google&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/groups/?hl=es&#34;&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/googledevelopers.jpg&#34; alt=&#34;Google Developers&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;escuela-técnica-superior-de-ingenierías-informática-y-telecomunicación-de-la-universidad-de-granada&#34;&gt;Escuela Técnica Superior de Ingenierías Informática y Telecomunicación de la Universidad de Granada&lt;/h3&gt;
-
-&lt;p&gt;Colabora con la cesión de sus instalaciones para nuestros eventos
-&lt;a href=&#34;https://etsiit.ugr.es/&#34;&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/logo_etsiit.jpg&#34; alt=&#34;ETSIIT&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;topyco&#34;&gt;TopyCo&lt;/h3&gt;
-
-&lt;p&gt;Colabora con la cesión de sus instalaciones para nuestros eventos
-&lt;a href=&#34;https://www.topyco.com&#34;&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/topyco.jpg&#34; alt=&#34;TopyCo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://blog.gdggranada.com/post/2017/agosto/15-andalucia-summer/</guid>
+      <description>Podemos decir que entre los objetivos de Google Developers Group, están los de promover la tecnología, potenciar el desarrollo de los desarrolladores a través de la comunidad y, por supuesto, conocer gente. Y es que este último aspecto pasa desapercibido muchas veces en las comunidades de desarrolladores (cuando puede ser el más enriquecedor). Por eso, cada vez que la cartera y el tiempo lo permite, me acerco a otras ciudades: quiero conocer qué hacen allí, cómo se organizan y lo mejor, su gente.</description>
     </item>
     
     <item>
@@ -269,44 +47,23 @@ Le seguiría Córdoba y su DevFest, conociendo a grandes personas como David, Da
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://blog.gdggranada.com/about/</guid>
-      <description>
+      <description>Google Developer Group Granada es una comunidad de desarrolladores interesados en la tecnología y la difusión de la misma. Mediante nuestros eventos, tratamos de fomentar el intercambio de conocimientos y experiencias en el sector. La participación es totalmente abierta y, generalmente, gratuíta.
+GDG Granada es un grupo independiente. Nuestras actividades y opiniones no deben ser relacionadas con la compañía Google.
+Organizers del equipo Israel Blancas Google Developer Group Lead Organizer.</description>
+    </item>
+    
+    <item>
+      <title>Patrocinadores</title>
+      <link>http://blog.gdggranada.com/patrocinadores/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/patrocinadores/</guid>
+      <description>Google Patrocinador principal
 
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/groups/chapter/107621838547829286968/&#34;&gt;&lt;strong&gt;Google Developer Group Granada&lt;/strong&gt;&lt;/a&gt; es una comunidad de desarrolladores interesados en la tecnología y la difusión de la misma. Mediante nuestros eventos, tratamos de fomentar el intercambio de conocimientos y experiencias en el sector. La participación es totalmente abierta y, generalmente, gratuíta.&lt;/p&gt;
+Google Developers Patrocinador principal. Comunidad de desarrolladores de Google
 
-&lt;p&gt;&lt;em&gt;GDG Granada es un grupo independiente. Nuestras actividades y opiniones no deben ser relacionadas con la compañía Google.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;organizers-del-equipo&#34;&gt;Organizers del equipo&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/israel.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 align=&#34;center&#34;&gt;Israel Blancas&lt;/h5&gt;
-
-&lt;p&gt;Google Developer Group Lead Organizer. Ingeniero de Software en Real-Time Innovations. Apasionado de las comunidades de software y hardware. Me encanta trastear todos los ámbitos de la tecnología, aunque estoy algo más centrado en programación de  backend y cloud. Enamorado de Docker.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/david.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 align=&#34;center&#34;&gt;David Sánchez&lt;/h5&gt;
-
-&lt;p&gt;Google Developer Group Organizer. Administrador de Sistemas Informáticos en Red y estudiante del Grado de Ingeniería Informática en la Universidad de Granada. Me gusta mucho el desarrollo web y actualmente estoy aprendiendo cloud.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/ana.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 align=&#34;center&#34;&gt;Ana Martínez&lt;/h5&gt;
-
-&lt;p&gt;Google Developer Group Organizer. Estudiante del Doble Grado de Ingeniería Informática y Matemáticas en la Universidad de Granada. Desde el primer momento en que me divertí jugando con un robot a los 13 años, hasta mi última aventura aprendiendo Python, he ido desarrollando un gran interés en este mundo;  además de en las comunidades que se crean alrededor del mismo. Me queda mucho por hacer, I&amp;rsquo;m a never ending learner.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/cecilia.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 align=&#34;center&#34;&gt;Cecilia Merelo&lt;/h5&gt;
-
-&lt;p&gt;Google Developer Group Organizer y Women Techmaker Lead Granada. Soy estudiante del Grado de  Ingeniería Informática en la Universidad de Granada. Me interesa el mundo de Android, Kotlin y similares. He trabajado un poco con HTML, Scratch y Perl.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/juan.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 align=&#34;center&#34;&gt;Juan Anaya&lt;/h5&gt;
-
-&lt;p&gt;Google Developer Group Organizer. Actual estudiante de Ingeniería Informática en Granada. Siempre aprendiendo, siempre riendo. Especializándome en cloud computing y en desarrollo front-end.&lt;/p&gt;
-</description>
+Escuela Técnica Superior de Ingenierías Informática y Telecomunicación de la Universidad de Granada Colabora con la cesión de sus instalaciones para nuestros eventos 
+TopyCo Colabora con la cesión de sus instalaciones para nuestros eventos</description>
     </item>
     
   </channel>

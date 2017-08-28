@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on GDG Granada</title>
-    <link>http://blog.gdggranada.com/categories/about/index.xml</link>
+    <link>http://blog.gdggranada.com/categories/about/</link>
     <description>Recent content in About on GDG Granada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <atom:link href="http://blog.gdggranada.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.gdggranada.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>GDG Granada - Sobre nosotros</title>
@@ -14,44 +17,9 @@
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://blog.gdggranada.com/about/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://developers.google.com/groups/chapter/107621838547829286968/&#34;&gt;&lt;strong&gt;Google Developer Group Granada&lt;/strong&gt;&lt;/a&gt; es una comunidad de desarrolladores interesados en la tecnología y la difusión de la misma. Mediante nuestros eventos, tratamos de fomentar el intercambio de conocimientos y experiencias en el sector. La participación es totalmente abierta y, generalmente, gratuíta.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;GDG Granada es un grupo independiente. Nuestras actividades y opiniones no deben ser relacionadas con la compañía Google.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;organizers-del-equipo&#34;&gt;Organizers del equipo&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/israel.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 align=&#34;center&#34;&gt;Israel Blancas&lt;/h5&gt;
-
-&lt;p&gt;Google Developer Group Lead Organizer. Ingeniero de Software en Real-Time Innovations. Apasionado de las comunidades de software y hardware. Me encanta trastear todos los ámbitos de la tecnología, aunque estoy algo más centrado en programación de  backend y cloud. Enamorado de Docker.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/david.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 align=&#34;center&#34;&gt;David Sánchez&lt;/h5&gt;
-
-&lt;p&gt;Google Developer Group Organizer. Administrador de Sistemas Informáticos en Red y estudiante del Grado de Ingeniería Informática en la Universidad de Granada. Me gusta mucho el desarrollo web y actualmente estoy aprendiendo cloud.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/ana.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 align=&#34;center&#34;&gt;Ana Martínez&lt;/h5&gt;
-
-&lt;p&gt;Google Developer Group Organizer. Estudiante del Doble Grado de Ingeniería Informática y Matemáticas en la Universidad de Granada. Desde el primer momento en que me divertí jugando con un robot a los 13 años, hasta mi última aventura aprendiendo Python, he ido desarrollando un gran interés en este mundo;  además de en las comunidades que se crean alrededor del mismo. Me queda mucho por hacer, I&amp;rsquo;m a never ending learner.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/cecilia.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 align=&#34;center&#34;&gt;Cecilia Merelo&lt;/h5&gt;
-
-&lt;p&gt;Google Developer Group Organizer y Women Techmaker Lead Granada. Soy estudiante del Grado de  Ingeniería Informática en la Universidad de Granada. Me interesa el mundo de Android, Kotlin y similares. He trabajado un poco con HTML, Scratch y Perl.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blog.gdggranada.com/images/juan.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 align=&#34;center&#34;&gt;Juan Anaya&lt;/h5&gt;
-
-&lt;p&gt;Google Developer Group Organizer. Actual estudiante de Ingeniería Informática en Granada. Siempre aprendiendo, siempre riendo. Especializándome en cloud computing y en desarrollo front-end.&lt;/p&gt;
-</description>
+      <description>Google Developer Group Granada es una comunidad de desarrolladores interesados en la tecnología y la difusión de la misma. Mediante nuestros eventos, tratamos de fomentar el intercambio de conocimientos y experiencias en el sector. La participación es totalmente abierta y, generalmente, gratuíta.
+GDG Granada es un grupo independiente. Nuestras actividades y opiniones no deben ser relacionadas con la compañía Google.
+Organizers del equipo Israel Blancas Google Developer Group Lead Organizer.</description>
     </item>
     
   </channel>

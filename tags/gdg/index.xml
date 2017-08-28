@@ -2,55 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gdg on GDG Granada</title>
-    <link>http://blog.gdggranada.com/tags/gdg/index.xml</link>
+    <link>http://blog.gdggranada.com/tags/gdg/</link>
     <description>Recent content in Gdg on GDG Granada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <atom:link href="http://blog.gdggranada.com/tags/gdg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.gdggranada.com/tags/gdg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¡Llegó Polymer v3!</title>
+      <link>http://blog.gdggranada.com/post/2017/agosto/28-llego-polymer-v3/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/post/2017/agosto/28-llego-polymer-v3/</guid>
+      <description>twitterwidget {margin: 0 auto;}   La semana pasada se celebró el Polymer Summit 2017 en Copenhague. Entre otras cosas, se ha presentado la versión preview de Polymer 3 (que está disponible en su repositorio de GitHub, en la rama 3.0-preview). Se han presentado muchas novedades y voy a intentar resumir aquí las que, al menos para mí, son más importantes.
+Para los que no conozcáis Polymer (mal hecho), os comento que es una biblioteca para crear tus propias etiquetas HTML, las cuales pueden tener una vista y/o un comportamiento.</description>
+    </item>
     
     <item>
       <title>GDG Andalucía Summer 2017</title>
-      <link>http://blog.gdggranada.com/post/2017-08-15-andalucia-summer/</link>
+      <link>http://blog.gdggranada.com/post/2017/agosto/15-andalucia-summer/</link>
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gdggranada.com/post/2017-08-15-andalucia-summer/</guid>
-      <description>
-
-&lt;p&gt;Podemos decir que entre los objetivos de Google Developers Group, están los de promover la tecnología, potenciar el desarrollo de los desarrolladores a través de la comunidad y, por supuesto, conocer gente. Y es que este último aspecto pasa desapercibido muchas veces en las comunidades de desarrolladores (cuando puede ser el más enriquecedor). Por eso, cada vez que la cartera y el tiempo lo permite, me acerco a otras ciudades: quiero conocer qué hacen allí, cómo se organizan y lo mejor, su gente.&lt;/p&gt;
-
-&lt;h3 id=&#34;mi-relación-con-la-comunidad-gdg&#34;&gt;Mi relación con la comunidad GDG&lt;/h3&gt;
-
-&lt;p&gt;Empecé en GDG Granada después del “DevFest 2015”. Conocí personalmente a algunos que habían sido compañeros de escuela o, incluso, de clase: Mica, Alberto y Esteban (¡estos dos últimos estaban incluso eventos en Granada desde Madrid!).&lt;/p&gt;
-
-&lt;p&gt;Durante la “Hackers Week 2016” en Málaga, dí con algunos miembros de esa ciudad como José Antonio, Mario y Samuel. También a Fran Baena, Developer Relationship en Google España, Gloria Bueno (Google Developer Expert en tecnologías frontend) y a Lara y Oscar, de GDG Cáceres.
-Un par de meses más tarde, era organizador y ponente del “Google IO Extended” en Madrid junto con Orestes (organizador del GDG Vigo), Javier (de GDG Spain) y Esteban.&lt;/p&gt;
-
-&lt;p&gt;En junio llegó el “ExFest” y tocaba visitar Cáceres. Dormía en el mismo piso que la gente del GDG Málaga. Networking puro. Terminé de conocer al equipo de Cáceres y miembros de otros GDG, como Abdón (de GDG Vigo y Google Developer Expert en tecnologías web de frontend) o Laura de GDG Madrid.
-En la “PyconES” de Almería, me junté con algunos miembros de Hacklab Almería y, de nuevo, con la gente de GDG: Marcos y Víctor (ahora residente en Canarias). Aunque no hablé con ella, tuve la suerte de asistir a la keynote ofrecida por Gema Parreño (una verdadera maga nivel 80 de Tensorflow).
-Le seguiría Córdoba y su DevFest, conociendo a grandes personas como David, Dani o Leti entre otros muchos (una gente maravillosa que me recibió con los brazos abiertos).&lt;/p&gt;
-
-&lt;p&gt;Volví a Almería para las Jornadas del Hacklab Almería en diciembre (otra comunidad genial), donde pude compartir más tiempo con Ismael Olea, Rubén o Cristo además de Germán (de la OSL de la UGR) y mucha gente que conocí aquel fin de semana.&lt;/p&gt;
-
-&lt;p&gt;En el “OpenSouthCode” 2017, me volví a reencontrar con muchos amigos de Málaga y Almería y conocí al relevo generacional del GDG Málaga: Rubén, Cristina, Antonio David y María. Y entonces algo pasó: vi que no era el único que tenía la necesidad de conocer a los miembros de las comunidades de las ciudades vecinas, especialmente GDG. Era y es algo necesario. Y había que unirnos de alguna forma.&lt;/p&gt;
-
-&lt;p&gt;Las semanas siguientes fui a la Sevilla Developers Conference (capitaneada por Israel Boza) y al Murcia Meetup Day. Mi tocayo es un vikingo de las comunidades del software y las lleva todas adelante. Pero hasta los vikingos necesitan ayuda. En Murcia, el relevo generacional se estaba haciendo de rogar en cuanto a GDG, pero tienen muchas comunidades muy activas sobre todos los temas.&lt;/p&gt;
-
-&lt;p&gt;Y entre medias&amp;hellip; ¡unos 25 eventos en Granada! Donde estuve con DataBeers, Python Granada, la Oficina de Software Libre de la Universidad de Granada entre otros grupos de desarrolladores y mucha gente que no pertenece a ninguna de estas asociaciones.&lt;/p&gt;
-
-&lt;h3 id=&#34;lo-que-vino-después-gdg-andalucía-summer-2017&#34;&gt;Lo que vino después: GDG Andalucía Summer 2017&lt;/h3&gt;
-
-&lt;p&gt;Tras el encuentro con Rubén de Málaga, empezamos a organizar (con la ayuda de GDG Spain) el “Andalucía Summer” Málaga 2017: un evento para propiciar que las comunidades de GDG de Andalucía nos conociéramos y trabajemos de forma conjunta. Y había ganas ¡Vaya si había ganas! Nos conocimos, hablamos, reímos, tuvimos sesiones técnicas y lo mejor, empezamos las colaboraciones. Siete charlas (Sevilla no pudo estar presente) charlas técnicas, donde hablamos de mujer y tecnología, Polymer, Google Cloud Platform, Tor, Docker… y recibimos un maravilloso training por parte de Gema Parreño sobre Tensorflow.&lt;/p&gt;
-
-&lt;p&gt;El evento sirvió para mucho y sentó las bases para futuras colaboraciones. Quedó demostrado que el GDG Andalucía funciona como uno solo. Por lo pronto, &lt;strong&gt;algunos de nosotros iremos a Jaén el 15 de septiembre para el GDD Extended de Jaén&lt;/strong&gt;. Y los que vendrán. A fin de cuentas, una forma de mejorar la comunidad y cómo organizarnos para ofrecer mejores eventos, desarrollarnos mejor como profesionales y hacer networking.&lt;/p&gt;
-
-&lt;p&gt;Marcos, David (de Córdoba), Leticia, Dani, Ana, Cecilia, David (de Granada), José, Abdallah, Eliezer, Rubén, José Antonio, Antonio David, Mario, Chelo, Javi, Gema, Pepe… ¡Sois maravillosos y nos veremos pronto organizando eventos y mil cosas más!&lt;/p&gt;
-
-&lt;p&gt;Pero… ¡Mejor te dejo el vídeo que nuestra compañera Ana realizó durante el evento!&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/byn-989UlCA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Finalmente, gracias a todos los que lo hicieron posible. Si la gente no fuera como es, las comunidades no serían posibles. Y Google Developer Group, es mucho más que una comunidad.&lt;/p&gt;
-</description>
+      <guid>http://blog.gdggranada.com/post/2017/agosto/15-andalucia-summer/</guid>
+      <description>Podemos decir que entre los objetivos de Google Developers Group, están los de promover la tecnología, potenciar el desarrollo de los desarrolladores a través de la comunidad y, por supuesto, conocer gente. Y es que este último aspecto pasa desapercibido muchas veces en las comunidades de desarrolladores (cuando puede ser el más enriquecedor). Por eso, cada vez que la cartera y el tiempo lo permite, me acerco a otras ciudades: quiero conocer qué hacen allí, cómo se organizan y lo mejor, su gente.</description>
     </item>
     
   </channel>
