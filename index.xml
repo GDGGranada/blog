@@ -6,10 +6,20 @@
     <description>Recent content on GDG Granada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://blog.gdggranada.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GDD Extended Jaén 2017</title>
+      <link>http://blog.gdggranada.com/post/2017/septiembre/17-.gdd-extended-jaen/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gdggranada.com/post/2017/septiembre/17-.gdd-extended-jaen/</guid>
+      <description>El pasado sábado día 16 de septiembre tuvo lugar en Jaén el Google Developer Days Extended 2017. El GDG Granada acudió como invitados y ponentes. Como no podía ser de otra forma, fuimos a poner nuestro granito de arena aportando dos charlas y nuestro calor a la organización del GDG vecino.
+El evento comenzó sobre las 12:30 con un pequeño resumen del Google Developer Days Europe el cual se celebró en la ciudad de Cracovia los días 5 y 6 de septiembre.</description>
+    </item>
     
     <item>
       <title>¡Llegó Polymer v3!</title>
