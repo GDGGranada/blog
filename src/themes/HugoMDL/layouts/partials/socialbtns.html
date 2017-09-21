@@ -19,8 +19,8 @@
                     <span class="visuallyhidden">Meetup</span>
                 </a>
                 {{- end }}
-                
-		{{- if isset .Site.Params "twitter" }}
+
+		            {{- if isset .Site.Params "twitter" }}
                 <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="{{ .Site.Params.twitter }}">
                     <i class="material-icons_lg icon fa fa-twitter "></i>
                     <span class="visuallyhidden">Twitter</span>
@@ -31,6 +31,13 @@
                 <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="{{ .Site.Params.facebook }}">
                     <i class="material-icons_lg icon fa fa-facebook "></i>
                     <span class="visuallyhidden">Facebook</span>
+                </a>
+                {{- end }}
+
+                {{- if isset .Site.Params "instagram" }}
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="{{ .Site.Params.instagram }}">
+                    <i class="material-icons_lg icon fa fa-instagram "></i>
+                    <span class="visuallyhidden">instagram</span>
                 </a>
                 {{- end }}
 
