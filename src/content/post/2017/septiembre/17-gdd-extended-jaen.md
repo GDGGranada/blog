@@ -1,7 +1,6 @@
 ---
-title: GDD Extended Jaén
-description: >-
-  Los GDG de Andalucía se reunieron en Málaga... ¡Y nosotros teníamos que estar
+title: GDD Extended Jaén 2017
+description: Viamos hasta la vecina ciudad de Jaén para colaborar con su GDD Extended. Aquí os dejamos la crónica
   allí!
 date: '2017-09-17'
 categories:
@@ -15,14 +14,14 @@ cardbackground: '#009688'
 cardtitlecolor: '#fff'
 author:
   name: David Sánchez
-  description: Google Developer Group Granada Lead Organizer
+  description: Google Developer Group Granada Organizer
   website: 'http://www.davidsanchezjimenez.com/'
   twitter: 'https://twitter.com/Koltharius'
   github: 'https://github.com/Koltharius'
   image: /images/david.png
 ---
 
-El pasado sábado día 16 de septiembre tuvo lugar en Jaén el Google Developer Days Extended 2017\. El GDG Granada acudió como invitados y ponentes. Como no podía ser de otra forma, fuimos a poner nuestro granito de arena aportando dos charlas y nuestro calor a la organización del GDG vecino.
+El pasado sábado día 16 de septiembre tuvo lugar en Jaén el Google Developer Days Extended 2017. El GDG Granada acudió como invitados y ponentes. Como no podía ser de otra forma, fuimos a poner nuestro granito de arena aportando dos charlas y nuestro calor a la organización del GDG vecino.
 
 El evento comenzó sobre las 12:30 con un pequeño resumen del Google Developer Days Europe el cual se celebró en la ciudad de Cracovia los días 5 y 6 de septiembre. Esta presentación corrió a cargo de Abdallah Abedraba, organizador del GDG Jaén, que asistió a dicho evento.
 
